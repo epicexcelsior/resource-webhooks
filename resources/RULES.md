@@ -37,4 +37,4 @@ We are just some nerds who develop discord bots!
 • https://dis.gd/feedback feedback/feature requests
 
 _ _
-%JUMP_TO_TOP%
+Jump to top 👆[%JUMP_TO_TOP%]
