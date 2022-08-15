@@ -11,9 +11,7 @@ const linkEscapeReplacer = (_: any, p1: string, p2: string): string =>
 	Formatters.hyperlink(p1, Formatters.hideLinkEmbed(p2));
 
 const replacePatterns = {
-	'%RULES_CHANNEL%': '<#222109930545610754>',
-	'%RESOURCES_CHANNEL%': '<#729580210634358804>',
-	'%USEFUL_SERVERS_CHANNEL%': '<#237743386864517122>',
+	'%RULES_CHANNEL%': '<#1008517588243992658>',
 } as const;
 
 const resolveIdentifier = (channelName: string): string => channelName.toUpperCase().replace(/-/gm, '_');
@@ -61,7 +59,7 @@ for (const channel of channels) {
 		if (firstMessage) {
 			part = part.replace(
 				jumpRegex,
-				`https://discord.com/channels/222078108977594368/${firstMessage.channel_id}/${firstMessage.id}`,
+				`https://discord.com/channels/777991471907078174/${firstMessage.channel_id}/${firstMessage.id}`,
 			);
 		}
 		// A raw API response is returned here, not a Message object as the typings indicate
