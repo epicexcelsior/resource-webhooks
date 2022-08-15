@@ -12,6 +12,7 @@ const linkEscapeReplacer = (_: any, p1: string, p2: string): string =>
 
 const replacePatterns = {
 	'%RULES_CHANNEL%': '<#1008517588243992658>',
+	'%SUPPORT_CHANNEL%': '<#962661688371474473>',
 } as const;
 
 const resolveIdentifier = (channelName: string): string => channelName.toUpperCase().replace(/-/gm, '_');
