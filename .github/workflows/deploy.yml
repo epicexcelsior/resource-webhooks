@@ -29,6 +29,8 @@ jobs:
         run: npm run deploy
         env:
           RULES: ${{ secrets.WEBHOOK_RULES }}
+          SERVER_INFO: ${{ secrets.WEBHOOK_SERVER_INFO }}
+          FAQ: ${{ secrets.WEBHOOK_FAQ }}
           WEBHOOK_AVATAR: ${{ secrets.WEBHOOK_AVATAR }}
           WEBHOOK_NAME: ${{ secrets.WEBHOOK_NAME }}
           DEPLOY_CHANNELS: ${{ github.event.inputs.deployChannels }}
