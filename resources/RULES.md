@@ -1,3 +1,5 @@
+https://cdn.discordapp.com/attachments/377336311834738691/1008807757891248189/LotusBanner.png
+_ _
 :large_blue_diamond:  __**Rules for the Vexento Music Discord Server**__
 
 :small_blue_diamond: **1 — Respect everyone.**
