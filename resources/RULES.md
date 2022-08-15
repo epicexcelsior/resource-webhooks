@@ -32,3 +32,6 @@ We are just some nerds who develop discord bots!
 • https://dis.gd/support anything discord related
 • https://dis.gd/billing payment/nitro
 • https://dis.gd/feedback feedback/feature requests
+
+_ _
+[Jump to the top](%JUMP_TO_TOP%)
