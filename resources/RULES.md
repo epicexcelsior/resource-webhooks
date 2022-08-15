@@ -1,4 +1,4 @@
-https://cdn.discordapp.com/attachments/973000592005951518/1007014327569633400/Borealis_faraway_view_of_Japanese_pagodas_above_a_large_roaring_19b1a252-47d4-4374-a478-49819c1ff454.png
+https://pbs.twimg.com/media/FaLUkpoWYAAZS5z.jpg
 
 _ _
 **Please read each of these rules thoroughly.**
