@@ -15,7 +15,7 @@ _ _
 Conflicts, debates, politics, and other sensitive topics from outside sources (including other servers, DMs, and other platforms) do not belong here.
 _ _
 :small_blue_diamond: **5 — Do not abuse @mentions (pinging).**
-Please do not ping someone without a reason or to the point of annoyance. If there is an issue or emergency, contact a moderator first!
+Please do not ping someone without a reason or to the point of annoyance. If there is an issue or emergency, contact a moderator!
 _ _
 :small_blue_diamond: **6 — Do not advertise in DMs.**
 Unless you have prior consent, do not use direct messaging to advertise or solicit content.
@@ -27,7 +27,7 @@ _ _
 We abide by [Discord's Terms of Service](https://discord.com/terms) and [Discord's Community Guidelines](https://discord.com/guidelines). Please review them.
 _ _
 :small_orange_diamond: **Enjoy your stay!**
-These rules are here to ensure that everyone has a safe and enjoyable experience, so please follow them. We hope you enjoy your stay! :FBhug2:
+These rules are here to ensure that everyone has a safe and enjoyable experience. We hope you enjoy your stay! :FBhug2:
 
 :exclamation: **Please note:**
 _ _
