@@ -11,8 +11,11 @@ const linkEscapeReplacer = (_: any, p1: string, p2: string): string =>
 	Formatters.hyperlink(p1, Formatters.hideLinkEmbed(p2));
 
 const replacePatterns = {
+	// Channels
 	'%RULES_CHANNEL%': '<#1008517588243992658>',
 	'%SUPPORT_CHANNEL%': '<#962661688371474473>',
+
+	// Roles
 } as const;
 
 const resolveIdentifier = (channelName: string): string => channelName.toUpperCase().replace(/-/gm, '_');
