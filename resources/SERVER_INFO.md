@@ -3,7 +3,7 @@
 _ _
 Welcome to Vexento’s official Discord server! %VEXYDANCE_EMOJI% This channel will help you get started in the server and find your way around.
 _ _
-Alexander, also known as “Vexento”, is a Norwegian music producer who is currently living in Canada. Since 2013, Vexento has been producing sensational music in a wide variety of genres including complextro, chillstep, piano, and many more. He now has nearly 500,000 subscribers on YouTube and over 200,000 monthly listeners on Spotify.
+Alexander, also known as “Vexento”, is a Norwegian music producer currently living in Canada. Since 2013, Vexento has been producing sensational music in various genres including complextro, chillstep, piano, and many more. He now has nearly 500,000 subscribers on YouTube and over 200,000 monthly listeners on Spotify.
 _ _
 This Discord community is a great place to connect with other Vexento fans, make friends with people from all over the world, discuss interesting topics, participate in events & contests, and have a great time. We hope that you enjoy your stay! %HUG2_EMOJI%
 _ _
@@ -36,9 +36,9 @@ _ _
 %LEVEL_ROLES_IMAGE%
 
 _ _
-We use the MEE6 leveling system which allows you to earn XP based on how many messages you send. We have 12 level roles which are automatically given to you as you level up.
+We use the MEE6 leveling system which allows you to earn XP based on how many messages you send. There are 12 level roles that are automatically given to you as you level up.
 _ _
-> 📈 You will gain 15-25 XP for every message that you send, but *you can earn XP only once per minute*. The XP required to reach the next level increases significantly as you level up.
+> 📈 You will gain 15-25 XP for every message you send, but *you can earn XP only once per minute*. The XP required to reach the next level increases significantly as you level up.
 > 🏅 View the server leaderboard here: <https://mee6.gg/vexento>
 _ _
 As you level up, you will earn roles that give you access to **new channels** or **new permissions**. Here are the permissions unlocked by each level:
