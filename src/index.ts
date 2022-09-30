@@ -61,7 +61,7 @@ const replacePatterns = {
 	// Hyperlinks - %EXAMPLE_LINK%: 'LINK'
 	'%WELCOME_IMAGE': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322441540653107/Welcome.png',
 	'%ROLE_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322443021226085/Roles.png',
-	'%LEVEL_ROLES_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322441167351878/LevelRoles.png',
+	'%LEVEL_ROLES_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322441540653107/Welcome.png',
 	'%MODERATION_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322442694086666/Moderation.png',
 	'%THANK_YOU_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322442274635796/ThankYou.png',
 } as const;
