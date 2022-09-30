@@ -15,7 +15,7 @@ Want to invite your friends to the server? Send them this link:
 _ _
 “Roles” can be thought of as badges or accessories that you can add to your profile in this server. There are a few roles you can pick up in %GET_ROLES_CHANNEL% by clicking on the corresponding buttons or clicking on the “Get Roles” button.
 _ _
-**Notification Roles**
+🔔 **Notification Roles**
 > %YOUTUBE_NOTIFS_ROLE% — Receive a notification in %ANNOUNCEMENTS_CHANNEL% whenever Vexento uploads to YouTube. *This role is given to you by default.*
 > %TWITTER_NOTIFS_ROLE% — Receive a notification in %SOCIALS_CHANNEL% whenever Vexento tweets. *This role is given to you by default.*
 > %VEXYMC_NOTIFS_ROLE% — Receive a notification in %VEXYMC_ANNOUNCEMENTS_CHANNEL% for updates related to VexyMC, the official Vexento Minecraft server. You can learn more about this in %VEXYMC_INFO_CHANNEL%.
@@ -23,13 +23,13 @@ _ _
 > %STREAM_NOTIFS_ROLE% — Receive a notification in %SOCIALS_CHANNEL% whenever <449713359722512384>, <392475827784384533> (Allison), or <279671231886917633> (Allison’s brother) begin streaming on Twitch.
 > %SERVER_ANNOUNCEMENT_NOTIFS_ROLE% — Receive a notification in %SERVER_ANNOUNCEMENTS_CHANNEL% whenever there is an important announcement for the Discord server.
 _ _
-**Activity Roles**
+🎉 **Activity Roles**
 These roles will display which activities you participate in.
 > You can choose from %PRODUCER_ROLE%, %MUSICIAN_ROLE%, %SINGER_VOCALIST_ROLE%, %DESIGNER_ROLE%, %CONTENT_CREATOR_ROLE%, or %GAMER_ROLE%.
 _ _
-**Other Roles**
+✨ **Other Roles**
 _ _
-> Introvert, Extrovert, and Ambivert
+> Introvert, Extrovert, and Ambivert role description
 > %SNICKERS_ROLE% — For the lovers of nougat topped with caramel and peanuts that has been enrobed in milk chocolate.
 > %ARCHIVES_ROLE% — View archived channels.
 
@@ -81,14 +81,14 @@ _ _
 _ _
 Our %MODERATOR_ROLE% team is committed to keeping our community safe, friendly, and welcoming. They are also here to help you find your way around the server and answer any questions you may have about Vexento or the server.
 _ _
-> To contact the moderators, create a ticket in %SUPPORT_CHANNEL% by selecting the appropriate category.
-> To report a user, create an `Emergency` ticket in %SUPPORT_CHANNEL%.
+> ✋ To contact the moderators, create a ticket in %SUPPORT_CHANNEL% by selecting the appropriate category.
+> 🚨 To report a user, create an `Emergency` ticket in %SUPPORT_CHANNEL%.
 
 %THANK_YOU_IMAGE%
 
 _ _
 If you have any questions about Vexento or the server, please read the %FAQ_CHANNEL%.
 _ _
-Thank you for joining Vexento’s Discord community! We hope you enjoy your stay here.
+Thank you for joining Vexento’s Discord community! We hope you enjoy your stay here. 
 _ _
 [👆 Jump to the top](%JUMP_TO_TOP%)
