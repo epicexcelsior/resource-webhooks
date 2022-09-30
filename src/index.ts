@@ -69,16 +69,10 @@ const replacePatterns = {
 	'%THANK_YOU_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322442274635796/ThankYou.png',
 
 	// Custom Emojis - %EXAMPLE_EMOJI%: '<:NAME:ID>'
-	'HUG1_EMOJI': '<:FBHug:834556611543564378>',
-	'VEXYDANCE_EMOJI': '<:VexyDancing:778318442398089226>',
-	'': '',
-	'': '',
-	'': '',
-	'': '',
-	'': '',
-	'': '',
-	'': '',
-	'': '',
+	'%HUG1_EMOJI%': '<:FBHug:834556611543564378>',
+	'%VEXYDANCE_EMOJI%': '<:VexyDancing:778318442398089226>',
+	'%VEXYHAI_EMOJI%': '<:vexyhai:884482263700619354>',
+	'%HUG2_EMOJI%': '<:FBhug2:910346042040520795>',
 } as const;
 
 const resolveIdentifier = (channelName: string): string => channelName.toUpperCase().replace(/-/gm, '_');
