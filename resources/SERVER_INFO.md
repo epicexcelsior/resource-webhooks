@@ -1,11 +1,11 @@
 %WELCOME_IMAGE%
 
 _ _
-Welcome to Vexento’s official Discord server! This channel will help you get started in the server and find your way around.
+Welcome to Vexento’s official Discord server! %VEXYDANCE_EMOJI% This channel will help you get started in the server and find your way around.
 _ _
 Alexander, also known as “Vexento”, is a Norwegian music producer who is currently living in Canada. Since 2013, Vexento has been producing sensational music in a wide variety of genres including complextro, chillstep, piano, and many more. He now has nearly 500,000 subscribers on YouTube and over 200,000 monthly listeners on Spotify.
 _ _
-This Discord community is a great place to connect with other Vexento fans, make friends with people from all over the world, discuss interesting topics, participate in events & contests, and have a great time. We hope that you enjoy your stay!
+This Discord community is a great place to connect with other Vexento fans, make friends with people from all over the world, discuss interesting topics, participate in events & contests, and have a great time. We hope that you enjoy your stay! %HUG2_EMOJI%
 _ _
 Want to invite your friends to the server? Send them this link:
 <https://dsc.gg/vexento>
