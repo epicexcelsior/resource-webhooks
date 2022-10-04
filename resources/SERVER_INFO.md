@@ -29,7 +29,7 @@ These roles will display which activities you participate in.
 _ _
 ✨ **Other Roles**
 _ _
-> Introvert, Extrovert, and Ambivert role description
+> %INTROVERT_ROLE%, %EXTROVERT_ROLE%, %AMBIVERT_ROLE% — These roles are just for display.
 > %SNICKERS_ROLE% — For the lovers of nougat topped with caramel and peanuts that has been enrobed in milk chocolate.
 > %ARCHIVES_ROLE% — View archived channels.
 
