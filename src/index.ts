@@ -72,6 +72,7 @@ const replacePatterns = {
 	'%MODERATION_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322442694086666/Moderation.png',
 	'%THANK_YOU_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025322442274635796/ThankYou.png',
 	'%BOOSTING_IMAGE%': 'https://cdn.discordapp.com/attachments/1007029641241956403/1025644065448017981/Boosting.png',
+	'%FAQ_IMAGE%': 'https://cdn.discordapp.com/attachments/973000592005951518/1028055950294270012/FAQ.png',
 
 	// Custom Emojis - %EXAMPLE_EMOJI%: '<:NAME:ID>'
 	'%HUG1_EMOJI%': '<:FBHug:834556611543564378>',

@@ -1,21 +1,45 @@
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
-📌 1. Can I use the music on Lofi Girl’s channel in my video/livestream/project?
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
+%FAQ_IMAGE%
 
-All our music is free to use, as long as you follow our crediting format. Read our full guidelines here: https://lofirecords.com/pages/use-the-music
+📌 **1. Can I use Vexento's music in my video/livestream/project?**
+_ _
+> Yes! Vexento's music is free to use in your creations. Please make sure to give credit!
+_ _
 
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
-📌 2. How can I submit my music/art to Lofi Records?
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
+📌 **2. Is Vexento on ___ platform?**
+_ _
+> Vexento's main music platforms include [YouTube](https://www.youtube.com/user/Vexento), [Spotify](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw), [SoundCloud](https://soundcloud.com/vexento), [Apple Music](https://music.apple.com/artist/vexento/965465657), [Amazon Music](https://www.amazon.com/music/player/artists/B00TUNDOHO/vexento) and [Deezer](https://www.deezer.com/us/artist/5336352).
+_ _
+> You can find Vexento's social media on [Twitter](https://twitter.com/Vexento), [Instagram](https://www.instagram.com/vexentomusic), and [Facebook](https://www.facebook.com/VexentoMusic).
+_ _
+You can find Vexento's link page here: <https://linktr.ee/vexentomusic>.
+_ _
 
-The label is not currently accepting music/art submissions.
+📌 **3. Where can I get Vexento merch?**
+_ _
+> You can find Vexento's merch store at <https://represent.com/store/vexento>.
+_ _
 
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
-📌 3. Is Lofi Girl available on X platform? 
-⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤⏤
+📌 **4. Where can I support Vexento?**
+_ _
+> Feel free to support the Vexento project at his [Patreon](https://www.patreon.com/Vexento).
+_ _
 
-🎼 | Listen on [Spotify](https://www.youtube.com/watch?v=dQw4w9WgXcQ), Apple Music and more: https://fanlink.to/lofigirl-music
+📌 **5. I have a business inquiry. How can I contact Vexento?**
+_ _
+> Please create a ticket in %SUPPORT_CHANNEL% and we will assist you.
+_ _
 
-🌏 | Follow Lofi Girl on social media: https://fanlink.to/lofigirl-social
+📌 **6. Is there a Vexento Minecraft server?**
+_ _
+> We do, and it's official! You can find information about it in %VEXYMC_INFO_CHANNEL%.
+_ _
 
-💬 | Join the Reddit community: https://bit.ly/lofigirl-reddit
+📌 **7. Do you host events here?**
+_ _
+> Indeed we do! Go to %GET_ROLES_CHANNEL% to configure your notifications. Event announcements will be posted in %EVENTS_CHANNEL%.
+_ _
+
+📌 **8. I have a different question/concern.**
+_ _
+> Please create a ticket in %SUPPORT_CHANNEL% and our moderators will happily assist you. %HUG1_EMOJI%
+_ _
