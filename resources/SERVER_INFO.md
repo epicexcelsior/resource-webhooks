@@ -9,6 +9,7 @@ This Discord community is a great place to connect with other Vexento fans, make
 _ _
 Want to invite your friends to the server? Send them this link:
 <https://dsc.gg/vexento>
+_ _
 
 %ROLE_IMAGE%
 
@@ -29,14 +30,15 @@ These roles will display which activities you participate in.
 _ _
 ✨ **Other Roles**
 _ _
-> Introvert, Extrovert, and Ambivert role description
+> %INTROVERT_ROLE%, %EXTROVERT_ROLE%, %AMBIVERT_ROLE% — These roles are for display only.
 > %SNICKERS_ROLE% — For the lovers of nougat topped with caramel and peanuts that has been enrobed in milk chocolate.
 > %ARCHIVES_ROLE% — View archived channels.
+_ _
 
 %LEVEL_ROLES_IMAGE%
 
 _ _
-We use the MEE6 leveling system which allows you to earn XP based on how many messages you send. There are 12 level roles that are automatically given to you as you level up.
+We use a leveling system that allows you to earn XP based on how many messages you send. There are 12 level roles that are automatically given to you as you level up.
 _ _
 > 📈 You will gain 15-25 XP for every message you send, but *you can earn XP only once per minute*. The XP required to reach the next level increases significantly as you level up.
 > 🏅 View the server leaderboard here: <https://mee6.gg/vexento>
@@ -44,56 +46,65 @@ _ _
 As you level up, you will earn roles that give you access to **new channels** or **new permissions**. Here are the permissions unlocked by each level:
 _ _
 %COOL_ROLE% **— Level 2**
-╰ Unlock media permissions (photos, videos, GIFs, etc.) in %MEMES_CHANNEL%
-╰ Unlock media permissions in %ARTIST_CHAT_CHANNEL%, %PRODUCER_CHAT_CHANNEL%, and %OTHER_MEDIA_CHANNEL% channels
+╰ Media permissions (photos, videos, GIFs, etc.) in channels in the Media category
+╰ Video & screen sharing permissions in voice channels
+╰ Add reactions to messages
+╰ Send messages in %STORY_CHANNEL%
 _ _
 %COLD_ROLE% **— Level 5**
-╰ Unlock media permissions in 
+╰ Send messages in %MEMES_CHANNEL%
+╰ Post suggestions in %SUGGESTIONS_CHANNEL%
 ╰ Send messages in %POLLS_CHANNEL%
 _ _
 %CHILL_ROLE% **— Level 10**
-╰ Unlock an exclusive channel
-╰ Add reactions
+╰ Use external emojis
+╰ Access to #chill-chat channel
 _ _
 %SNOWY_ROLE% **— Level 15**
 _ _
-%WINTRY_ROLE% **— Level 20**
-╰ Send links/GIFs in %GENERAL_CHANNEL%
+%WINTRY_EMOJI% %WINTRY_ROLE% **— Level 20**
+╰ Use external stickers
 _ _
-%FROSTY_ROLE% **— Level 25**
-╰ Unlock a very exclusive channel
+%FROSTY_EMOJI% %FROSTY_ROLE% **— Level 25**
+╰ Access to #frosty-chat channel
+╰ Send GIFs in %GENERAL_CHANNEL%
 _ _
-%FRIGID_ROLE% **— Level 30**
+%FRIGID_EMOJI% %FRIGID_ROLE% **— Level 30**
+╰ Create public threads
 _ _
-%FREEZING_ROLE% **— Level 40**
-╰ Create public threads anywhere
+%FREEZING_EMOJI% %FREEZING_ROLE% **— Level 40**
+╰ Media permissions in %GENERAL_CHANNEL%
 _ _
-%GLACIAL_ROLE% **— Level 50**
+%GLACIAL_EMOJI% %GLACIAL_ROLE% **— Level 50**
 _ _
 %BOREAL_ROLE% **— Level 60**
 _ _
 %ARCTIC_ROLE% **— Level 70**
 _ _
 %ABSOLUTE_ZERO_ROLE% **— Level 80**
+_ _
 
 %BOOSTING_IMAGE%
 
 _ _
-You can support the server by boosting, which gives you an exclusive %SERVER_BOOSTER_ROLE%, an evolving profile badge, and a place at the top of the member list!
+You can support the server by boosting, which gives you an exclusive %SERVER_BOOSTER_ROLE% role, an evolving profile badge, and a place at the top of the member list!
+Additionally, boosters get nearly all the permissions up to the %FROSTY_ROLE% role.
 _ _
 There are 2 ways to boost the server:
-• Using the free boosts that come with a Discord Nitro subscription
+• Using the free boosts that come with a Discord Nitro subscription 
 • Buying boosts separately
 _ _
 %BOWVEXY_EMOJI% Interested in becoming a booster? Click on the server name at the top left, then click **Server Boost** for more information.
+_ _
 
 %MODERATION_IMAGE%
 
 _ _
-Our %MODERATOR_ROLE% team is committed to keeping our community safe, friendly, and welcoming. They are also here to help you find your way around the server and answer any questions you may have about Vexento or the server.
+Our %MODERATOR_ROLE% and %JMOD_ROLE% team is committed to keeping our community safe, friendly, and welcoming. They are also here to help you find your way around the server and answer any questions you may have about Vexento or the server.
 _ _
 > ✋ To contact the moderators, create a ticket in %SUPPORT_CHANNEL% by selecting the appropriate category.
 > 🚨 To report a user, create an `Emergency` ticket in %SUPPORT_CHANNEL%.
+_ _
 
 %THANK_YOU_IMAGE%
 
