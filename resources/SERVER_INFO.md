@@ -87,11 +87,11 @@ _ _
 %BOOSTING_IMAGE%
 
 _ _
-You can support the server by boosting, which gives you an exclusive %SERVER_BOOSTER_ROLE%, an evolving profile badge, and a place at the top of the member list!
+You can support the server by boosting, which gives you an exclusive %SERVER_BOOSTER_ROLE% role, an evolving profile badge, and a place at the top of the member list!
 Additionally, boosters get nearly all the permissions up to the %FROSTY_ROLE% role.
 _ _
 There are 2 ways to boost the server:
-• Using the free boosts that come with a Discord Nitro subscription
+• Using the free boosts that come with a Discord Nitro subscription 
 • Buying boosts separately
 _ _
 %BOWVEXY_EMOJI% Interested in becoming a booster? Click on the server name at the top left, then click **Server Boost** for more information.
