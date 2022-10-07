@@ -1,6 +1,6 @@
 %FAQ_IMAGE%
 
-📌 **1. Can I use Vexento's music in my video/livestream/project?**
+📌 **1. Can I use Vexento's music in my video/live stream/project?**
 _ _
 > Yes! Vexento's music is free to use in your creations. Please make sure to give credit! %VEXYHUG_EMOJI%
 _ _
@@ -26,7 +26,7 @@ _ _
 
 📌 **5. I have a business inquiry. How can I contact Vexento?**
 _ _
-> Please create a ticket in %SUPPORT_CHANNEL% and we will assist you.
+> Please create a 'Copyright' or 'Other' ticket in %SUPPORT_CHANNEL% and our moderators will assist you.
 _ _
 
 📌 **6. Is there a Vexento Minecraft server?**
