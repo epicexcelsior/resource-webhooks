@@ -2,7 +2,7 @@
 
 📌 **1. Can I use Vexento's music in my video/livestream/project?**
 _ _
-> Yes! Vexento's music is free to use in your creations. Please make sure to give credit!
+> Yes! Vexento's music is free to use in your creations. Please make sure to give credit! %VEXYHUG_EMOJI%
 _ _
 
 📌 **2. Is Vexento on ___ platform?**
@@ -42,4 +42,3 @@ _ _
 📌 **8. I have a different question/concern.**
 _ _
 > Please create a ticket in %SUPPORT_CHANNEL% and our moderators will happily assist you. %HUG1_EMOJI%
-_ _

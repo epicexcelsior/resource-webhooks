@@ -85,6 +85,7 @@ const replacePatterns = {
 	'%FRIGID_EMOJI%': '<:Frigid:1027882173002416149>',
 	'%FREEZING_EMOJI%': '<:Freezing:1027882174944387132>',
 	'%GLACIAL_EMOJI%': '<:Glacial:1027882167054901258>',
+	'%VEXYHUG_EMOJI%': '<:VexHug:838543117128826940>',
 } as const;
 
 const resolveIdentifier = (channelName: string): string => channelName.toUpperCase().replace(/-/gm, '_');
