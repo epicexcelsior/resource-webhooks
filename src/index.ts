@@ -126,10 +126,10 @@ for (const channel of channels) {
 	const fileName = `${channel}.md`;
 
 	const raw = await readFile(new URL(fileName, resourcesDir), { encoding: 'utf8' });
-	console.log(raw);
 	const r1 = raw.replace(linkEscapeRegex, linkEscapeReplacer).replace(/"/g, '\\"');
 	const r2 = Object.entries(replacePatterns).reduce((acc, [k, v]) => acc.replace(new RegExp(k, 'gm'), v), r1);
 	const parts = r2.split('\n\n');
+	console.log(parts);
 
 	let firstMessage: APIMessage | null = null;
 	for (let part of parts) {
