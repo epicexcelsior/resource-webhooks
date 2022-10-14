@@ -27,8 +27,9 @@ _ _
 We abide by [Discord's Terms of Service](https://discord.com/terms) and [Discord's Community Guidelines](https://discord.com/guidelines). Please review them.
 _ _
 :small_orange_diamond: **Enjoy your stay!**
-These rules exist to ensure that everyone has a safe and enjoyable experience. We hope you enjoy your stay! :FBhug2:
+These rules exist to ensure that everyone has a safe and enjoyable experience. We hope you enjoy your stay! %HUG2_EMOJI%
 
+_ _
 :exclamation: **Please note:**
 _ _
 **—** Staff may act at their discretion regarding instances not stated in these rules. If you question a moderator’s decision, please reach out to another staff member to voice your concerns.
@@ -39,7 +40,7 @@ _ _
 _ _
 **—** If you choose not to follow these rules in DMs, all participants must agree to this.
 _ _
-**:rotating_light:  To report someone,** create an Emergency ticket in %SUPPORT_CHANNEL%. Only do this with good reason.
+**:rotating_light:  To report someone,** create an Emergency ticket in %SUPPORT_CHANNEL% or ping %MODERATOR_ROLE%. Only do this with good reason.
 _ _
 These rules are subject to change. Last updated on the 15th of October, 2022.
 _ _
