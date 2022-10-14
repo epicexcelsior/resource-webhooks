@@ -58,7 +58,7 @@ _ _
 _ _
 %CHILL_ROLE% **— Level 10**
 ╰ Use external emojis
-╰ Access to #chill-chat channel
+╰ Access to the #chill-chat channel
 _ _
 %SNOWY_ROLE% **— Level 15**
 _ _
@@ -66,7 +66,7 @@ _ _
 ╰ Use external stickers
 _ _
 %FROSTY_EMOJI% %FROSTY_ROLE% **— Level 25**
-╰ Access to #frosty-chat channel
+╰ Access to the #frosty-chat channel
 ╰ Send GIFs in %GENERAL_CHANNEL%
 _ _
 %FRIGID_EMOJI% %FRIGID_ROLE% **— Level 30**
@@ -90,7 +90,7 @@ _ _
 You can support the server by boosting, which gives you an exclusive %SERVER_BOOSTER_ROLE% role, an evolving profile badge, and a place at the top of the member list!
 Additionally, boosters get nearly all the permissions up to the %FROSTY_ROLE% role.
 _ _
-There are 2 ways to boost the server:
+There are two ways to boost the server:
 • Using the free boosts that come with a Discord Nitro subscription 
 • Buying boosts separately
 _ _

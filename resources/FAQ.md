@@ -11,7 +11,7 @@ _ _
 _ _
 > You can find Vexento's social media on [Twitter](https://twitter.com/Vexento), [Instagram](https://www.instagram.com/vexentomusic), and [Facebook](https://www.facebook.com/VexentoMusic).
 _ _
-You can find Vexento's link page here: <https://linktr.ee/vexentomusic>.
+You can find Vexento's link page at <https://linktr.ee/vexentomusic>.
 _ _
 
 📌 **3. Where can I get Vexento merch?**
