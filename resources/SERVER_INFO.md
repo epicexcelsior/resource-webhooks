@@ -34,6 +34,12 @@ _ _
 > %SNICKERS_ROLE% — For the lovers of nougat topped with caramel and peanuts that has been enrobed in milk chocolate.
 > %ARCHIVES_ROLE% — View archived channels.
 _ _
+_ _
+🛡️ **Earned Roles**
+_ _
+> %CONTEST_CHAMPION_ROLE% — Given to the current contest champion(s) for up to 1 month after a contest.
+> %PAST_CONTEST_CHAMPION_ROLE% — Given to past contest champions.
+_ _
 
 %LEVEL_ROLES_IMAGE%
 
