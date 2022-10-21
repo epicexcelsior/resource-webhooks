@@ -55,10 +55,10 @@ _ _
 %COOL_ROLE% **— Level 2**
 ╰ Media permissions (photos, videos, GIFs, etc.) in channels in the Media category
 ╰ Video & screen sharing permissions in voice channels
-╰ Add reactions to messages
 ╰ Send messages in %STORY_CHANNEL%
 _ _
 %COLD_ROLE% **— Level 5**
+╰ Start voice channel activities
 ╰ Send messages in %MEMES_CHANNEL%
 ╰ Post suggestions in %SUGGESTIONS_CHANNEL%
 ╰ Send messages in %POLLS_CHANNEL%
