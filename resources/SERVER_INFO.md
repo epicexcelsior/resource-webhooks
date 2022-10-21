@@ -84,11 +84,11 @@ _ _
 _ _
 %GLACIAL_EMOJI% %GLACIAL_ROLE% **— Level 50**
 _ _
-%BOREAL_ROLE% **— Level 60**
+%BOREAL_EMOJI% %BOREAL_ROLE% **— Level 60**
 _ _
-%ARCTIC_ROLE% **— Level 70**
+%ARCTIC_EMOJI% %ARCTIC_ROLE% **— Level 70**
 _ _
-%ABSOLUTE_ZERO_ROLE% **— Level 80**
+%ABSOLUTE_ZERO_EMOJI% %ABSOLUTE_ZERO_ROLE% **— Level 80**
 _ _
 
 %BOOSTING_IMAGE%
