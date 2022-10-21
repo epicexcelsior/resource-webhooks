@@ -39,6 +39,7 @@ _ _
 _ _
 > %CONTEST_CHAMPION_ROLE% — Given to the current contest champion(s) for up to 1 month after a contest.
 > %PAST_CONTEST_CHAMPION_ROLE% — Given to past contest champions.
+> %SERVER_BOOSTER_ROLE% — See the "Boosting" section below.
 _ _
 
 %LEVEL_ROLES_IMAGE%
