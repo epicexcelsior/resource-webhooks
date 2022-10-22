@@ -60,7 +60,6 @@ _ _
 %COLD_ROLE% **— Level 5**
 ╰ Start voice channel activities
 ╰ Send messages in %MEMES_CHANNEL%
-╰ Post suggestions in %SUGGESTIONS_CHANNEL%
 ╰ Send messages in %POLLS_CHANNEL%
 _ _
 %CHILL_ROLE% **— Level 10**
