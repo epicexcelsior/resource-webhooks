@@ -44,5 +44,5 @@ _ _
 These rules are subject to change. Last updated on the 22nd of October, 2022.
 _ _
 ✅  **As a member of this server, you agree to follow these rules and accept any punishments that may follow for breaking them.**
-
+_ _
 [👆 Jump to the top](%JUMP_TO_TOP%)
