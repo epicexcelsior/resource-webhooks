@@ -63,13 +63,11 @@ _ _
 ╰ Send messages in %POLLS_CHANNEL%
 _ _
 %CHILL_ROLE% **— Level 10**
-╰ Use external emojis
 ╰ Access to the #chill-chat channel
 _ _
 %SNOWY_ROLE% **— Level 15**
 _ _
 %WINTRY_EMOJI% %WINTRY_ROLE% **— Level 20**
-╰ Use external stickers
 _ _
 %FROSTY_EMOJI% %FROSTY_ROLE% **— Level 25**
 ╰ Access to the #frosty-chat channel
