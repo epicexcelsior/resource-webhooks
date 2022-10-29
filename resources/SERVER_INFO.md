@@ -55,15 +55,19 @@ _ _
 %COOL_ROLE% **— Level 2**
 ╰ Media permissions (photos, videos, GIFs, etc.) in channels in the Media category
 ╰ Video & screen sharing permissions in voice channels
-╰ Send messages in %STORY_CHANNEL%
+╰ Send messages in %POLLS_CHANNEL%
+
+<!-- ╰ Send messages in %STORY_CHANNEL%   DONE    UNRESTRICT  -->
 _ _
 %COLD_ROLE% **— Level 5**
-╰ Start voice channel activities
-╰ Send messages in %MEMES_CHANNEL%
-╰ Send messages in %POLLS_CHANNEL%
+<!-- ╰ Start voice channel activities DONE
+╰ Send messages in %MEMES_CHANNEL% DONE          UNRESTRICT
+╰ Send messages in %POLLS_CHANNEL%  DONE MOVE TO COOL -->
+╰ Send links and GIFs in %GENERAL_CHANNEL%
 _ _
 %CHILL_ROLE% **— Level 10**
 ╰ Access to the #chill-chat channel
+╰ Media permissions in %GENERAL_CHANNEL%
 _ _
 %SNOWY_ROLE% **— Level 15**
 _ _
@@ -71,13 +75,13 @@ _ _
 _ _
 %FROSTY_EMOJI% %FROSTY_ROLE% **— Level 25**
 ╰ Access to the #frosty-chat channel
-╰ Send GIFs in %GENERAL_CHANNEL%
+<!-- ╰ Send GIFs in %GENERAL_CHANNEL%  DONE     MOVE TO COLD -->
 _ _
 %FRIGID_EMOJI% %FRIGID_ROLE% **— Level 30**
 ╰ Create public threads
 _ _
 %FREEZING_EMOJI% %FREEZING_ROLE% **— Level 40**
-╰ Media permissions in %GENERAL_CHANNEL%
+<!-- ╰ Media permissions in %GENERAL_CHANNEL%  DONE     MOVE TO CHILL-->
 _ _
 %GLACIAL_EMOJI% %GLACIAL_ROLE% **— Level 50**
 _ _
