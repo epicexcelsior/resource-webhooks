@@ -30,13 +30,11 @@ These roles will display which activities you participate in.
 > You can choose from %PRODUCER_ROLE%, %MUSICIAN_ROLE%, %SINGER_VOCALIST_ROLE%, %DESIGNER_ROLE%, %CONTENT_CREATOR_ROLE%, or %GAMER_ROLE%.
 _ _
 ✨ **Other Roles**
-_ _
 > %INTROVERT_ROLE%, %EXTROVERT_ROLE%, %AMBIVERT_ROLE% — These roles are for display only.
 > %SNICKERS_ROLE% — For the lovers of nougat topped with caramel and peanuts that has been enrobed in milk chocolate.
 > %ARCHIVES_ROLE% — View archived channels.
 _ _
 🛡️ **Earned Roles**
-_ _
 > %CONTEST_CHAMPION_ROLE% — Given to the current contest champion(s) for up to 1 month after a contest.
 > %PAST_CONTEST_CHAMPION_ROLE% — Given to past contest champions.
 > %SERVER_BOOSTER_ROLE% — See the "Boosting" section below.
