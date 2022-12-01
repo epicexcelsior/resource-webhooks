@@ -21,6 +21,7 @@ _ _
 > %TWITTER_NOTIFS_ROLE% — Receive a notification in %SOCIALS_CHANNEL% whenever Vexento tweets. *This role is given to you by default.*
 > %VEXYMC_NOTIFS_ROLE% — Receive a notification in %VEXYMC_ANNOUNCEMENTS_CHANNEL% for updates related to VexyMC, the official Vexento Minecraft server. You can learn more about this in %VEXYMC_INFO_CHANNEL%.
 > %EVENT_NOTIFS_ROLE% — Receive a notification in %EVENTS_CHANNEL% for every event or contest we host in the server.
+> %CONTEST_NOTIFS_ROLE% — Receive a notification in %CONTEST_INFO_CHANNEL% for community contest announcements.
 > %STREAM_NOTIFS_ROLE% — Receive a notification in %SOCIALS_CHANNEL% whenever <@449713359722512384>, <@392475827784384533> (Allison), or <@279671231886917633> (Allison’s brother) begin streaming on Twitch.
 > %SERVER_ANNOUNCEMENT_NOTIFS_ROLE% — Receive a notification in %SERVER_ANNOUNCEMENTS_CHANNEL% whenever there is an important announcement for the Discord server.
 _ _
