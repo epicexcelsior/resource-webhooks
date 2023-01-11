@@ -14,14 +14,14 @@ _ _
 You can find Vexento's link page at <https://linktr.ee/vexentomusic>.
 _ _
 
-📌 **3. Where can I get Vexento merch?**
+📌 **3. Where can I buy Vexento merch?**
 _ _
 > You can find Vexento's merch store at <https://represent.com/store/vexento>.
 _ _
 
-📌 **4. Where can I support Vexento?**
+📌 **4. How can I support Vexento?**
 _ _
-> Feel free to support the Vexento project at his [Patreon](https://www.patreon.com/Vexento).
+I truly appreciate your encouragement and support as a listener. If you're so inclined, you're welcome to "leave a tip" at my Patreon at <https://www.patreon.com/Vexento>.
 _ _
 
 📌 **5. I have a business inquiry. How can I contact Vexento?**
@@ -31,12 +31,12 @@ _ _
 
 📌 **6. Is there a Vexento Minecraft server?**
 _ _
-> We do, and it's official! You can find information about it in %VEXYMC_INFO_CHANNEL%.
+> Yes, and it's official! You can find information about it in %VEXYMC_INFO_CHANNEL%.
 _ _
 
 📌 **7. Do you host events here?**
 _ _
-> Indeed we do! Go to %GET_ROLES_CHANNEL% to configure your notifications. Event announcements will be posted in %EVENTS_CHANNEL%.
+> Of course! We host events such as movie events, game nights, and more. Events are announced in %EVENTS_CHANNEL%. Go to %GET_ROLES_CHANNEL% to configure your notifications.
 _ _
 
 📌 **8. I have a different question/concern.**
