@@ -95,16 +95,16 @@ There are two ways to boost the server:
 • Using the free boosts that come with a Discord Nitro subscription 
 • Buying boosts separately
 _ _
-%BOWVEXY_EMOJI% Interested in becoming a booster? Click on the server name at the top left, then click **Server Boost** for more information.
+%VEXYPUNCH_EMOJI% Interested in becoming a booster? Click on the server name at the top left, then click **Server Boost** for more information.
 _ _
 
 %MODERATION_IMAGE%
 
 _ _
-Our %MODERATOR_ROLE% and %JMOD_ROLE% team is committed to keeping our community safe, friendly, and welcoming. They are also here to help you find your way around the server and answer any questions you may have about Vexento or the server.
+Our %ADMIN_ROLE%s, %MODERATOR_ROLE%s, and %JMOD_ROLE%s are committed to keeping our community safe, friendly, and welcoming. They are also here to help you find your way around the server and answer any questions you may have about Vexento or the server.
 _ _
-> ✋ To contact the moderators, create a ticket in %SUPPORT_CHANNEL% by selecting the appropriate category.
-> 🚨 To report a user, create an `Emergency` ticket in %SUPPORT_CHANNEL%.
+> ✋ To contact staff, create a ticket in %SUPPORT_CHANNEL% by selecting the appropriate category.
+> 🚨 To report a user, ping a staff role or create an `Emergency` ticket in %SUPPORT_CHANNEL%.
 _ _
 
 %THANK_YOU_IMAGE%
