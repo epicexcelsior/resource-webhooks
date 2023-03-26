@@ -7,7 +7,7 @@ _ _
 
 📌 **2. Is Vexento on ___ platform?**
 _ _
-> Vexento's main music platforms include [YouTube](https://www.youtube.com/user/Vexento), [Spotify](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw), [SoundCloud](https://soundcloud.com/vexento), [Apple Music](https://music.apple.com/artist/vexento/965465657), [Amazon Music](https://www.amazon.com/music/player/artists/B00TUNDOHO/vexento) and [Deezer](https://www.deezer.com/us/artist/5336352).
+> Vexento's main music platforms include [YouTube](https://www.youtube.com/user/Vexento), [Spotify](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw), [SoundCloud](https://soundcloud.com/vexento), [Apple Music](https://music.apple.com/artist/vexento/965465657), [Amazon Music](https://www.amazon.com/music/player/artists/B00TUNDOHO/vexento), [Deezer](https://www.deezer.com/us/artist/5336352), and [Tidal](https://tidal.com/browse/artist/5894480).
 _ _
 > You can find Vexento's social media on [Twitter](https://twitter.com/Vexento), [Instagram](https://www.instagram.com/vexentomusic), and [Facebook](https://www.facebook.com/VexentoMusic).
 _ _
