@@ -25,6 +25,7 @@ _ _
 > %STREAM_NOTIFS_ROLE% — Receive a notification in %SOCIALS_CHANNEL% when <@449713359722512384>, <@392475827784384533> (Allison), or <@279671231886917633> (Allison’s brother) stream on Twitch.
 > %SERVER_ANNOUNCEMENT_NOTIFS_ROLE% — Receive a notification in %SERVER_ANNOUNCEMENTS_CHANNEL% for Discord server announcements.
 _ _
+
 ### 🎉 **Activity Roles**
 These roles will display which activities you participate in.
 > You can choose from %PRODUCER_ROLE%, %MUSICIAN_ROLE%, %SINGER_VOCALIST_ROLE%, %DESIGNER_ROLE%, %CONTENT_CREATOR_ROLE%, or %GAMER_ROLE%.
