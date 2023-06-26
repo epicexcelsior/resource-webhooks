@@ -25,17 +25,14 @@ _ _
 > %STREAM_NOTIFS_ROLE% — Receive a notification in %SOCIALS_CHANNEL% when <@449713359722512384>, <@392475827784384533> (Allison), or <@279671231886917633> (Allison’s brother) stream on Twitch.
 > %SERVER_ANNOUNCEMENT_NOTIFS_ROLE% — Receive a notification in %SERVER_ANNOUNCEMENTS_CHANNEL% for Discord server announcements.
 _ _
-
-🎉 **Activity Roles**
+### 🎉 **Activity Roles**
 These roles will display which activities you participate in.
 > You can choose from %PRODUCER_ROLE%, %MUSICIAN_ROLE%, %SINGER_VOCALIST_ROLE%, %DESIGNER_ROLE%, %CONTENT_CREATOR_ROLE%, or %GAMER_ROLE%.
-_ _
-✨ **Other Roles**
+### ✨ **Other Roles**
 > %INTROVERT_ROLE%, %EXTROVERT_ROLE%, %AMBIVERT_ROLE% — These roles are for display only.
 > %SNICKERS_ROLE% — For the lovers of nougat topped with caramel and peanuts that has been enrobed in milk chocolate.
 > %ARCHIVES_ROLE% — View archived channels.
-_ _
-🛡️ **Earned Roles**
+### 🛡️ **Earned Roles**
 > %CONTEST_CHAMPION_ROLE% — Given to the current contest champion(s) for up to 1 month after a contest.
 > %PAST_CONTEST_CHAMPION_ROLE% — Given to past contest champions.
 > %SERVER_BOOSTER_ROLE% — See the "Boosting" section below.
